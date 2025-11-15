@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm a Java Developer (Backend)
 
-<!--
-**sulazula/sulazula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 About Me  
+I'm a junior **Backend Java Developer** passionate about building reliable and well-structured services.  
+I work with a modern backend stack, explore microservice architecture, and aim to grow toward high-load systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+#### **Core Technologies**
+- **Java**, **Spring Framework / Spring Boot**
+- **PostgreSQL**, **MySQL**
+- **Apache Kafka**
+- **Docker**
+- **Swagger / OpenAPI**
+- **httpie / Postman**
+- **Microservices**
+
+#### **Additional Skills**
+- Basic knowledge of: **Python**, **C#**, **JavaScript**, **React**, **Express.js**, **Vite**
+
+#### **Currently Learning**
+- **Kotlin** — expanding my experience within the JVM ecosystem
+
+---
+
+### 🚀 Experience  
+I have several years of hands-on programming practice — from college projects to personal development at home.  
+Some of my pet projects and experiments are already on GitHub, showcasing my progress and the technologies I work with.
+
